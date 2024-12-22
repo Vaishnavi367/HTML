@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <h1>motivational quotes</h1></h1>
+  </head>
+  <main>
+    <p>LIFE <a href="https://tse3.mm.bing.net/th?id=OIP.wQxTz1yCGrglbJ4Kh32MwAHaHa&pid=Api&P=0&h=180">MOTIVATION</a> QUOTES</p>
+    <img src="https://tse2.mm.bing.net/th?id=OIP.DWO51L6W6MSq2YVWeuDmZwHaEK&pid=Api&P=0&h=180">
+    <p> See <a href="https://tse4.mm.bing.net/th?id=OIP.LRwoA79x5d7ELqt68tivXgHaHa&pid=Api&P=0&h=180">more</a> photos</p>
+    <h2>Motivational List</h2>
+    <fieldset>
+      <legend>Who's your motivator?</legend>
+      <input id="father" type="checkbox" name="motivator" value="father">Father</label>
+      <input id="mother" type="checkbox" name="motivator" value="mother" checked>Mother</label>
+    </fieldset>
+  </main>
