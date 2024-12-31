@@ -1,0 +1,10 @@
+<body>
+    <div class="label">
+<h1 style ="color: blue";>flipkart</h1>
+<img src="c:\Users\Dell\Downloads\images.jpg"></img>
+<h1>Flipkart Big Billion Days</h1>
+<p>The Flipkart Big Billion Days is an annual sale that offers big discounts on a wide range of products</p>
+<img style="class: center;" src="c:\Users\Dell\Downloads\download.jpg"></img>
+<p>To shop through flipkart <a href="https://www.flipkart.com/july-2024-big-bachat-days-store">click the link</a></p>
+</div>
+</body>
