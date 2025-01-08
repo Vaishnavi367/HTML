@@ -1,0 +1,15 @@
+
+<body>
+<h1>LOGIN</h1>
+    <label for="name">NAME</label><input id="name" name="name" type="text" required /><br>
+     <label for="password">PASSWORD</label></label><input id="password" name="name" type="password" required />
+<button type="button" onclick="displayInfo()">Submit</button>
+<p id="output"></p>
+<script>
+function displayInfo() {
+     const name = document.getElementById("name").value;
+          const password = document.getElementById("password").value;
+     document.getElementById("output").innerText=`you entered: ${name}, ${password}`;
+}
+</script>
+</body>
